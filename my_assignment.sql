@@ -1,2 +1,2 @@
 use northwind;
-Select * from northwind where CategoryID = 5;
+Select * from category where CategoryID = 5;
